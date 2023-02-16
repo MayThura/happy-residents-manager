@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/happy-residents-manager/static/css/main.6c1f8aa1.css",
+    "main.js": "/happy-residents-manager/static/js/main.8c3c4da5.js",
+    "static/js/787.c6928405.chunk.js": "/happy-residents-manager/static/js/787.c6928405.chunk.js",
+    "index.html": "/happy-residents-manager/index.html",
+    "main.6c1f8aa1.css.map": "/happy-residents-manager/static/css/main.6c1f8aa1.css.map",
+    "main.8c3c4da5.js.map": "/happy-residents-manager/static/js/main.8c3c4da5.js.map",
+    "787.c6928405.chunk.js.map": "/happy-residents-manager/static/js/787.c6928405.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c1f8aa1.css",
+    "static/js/main.8c3c4da5.js"
+  ]
+}
