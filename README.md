@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Happy Residents Manager
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is live in action at https://maythura.github.io/happy-residents-manager/
 
 ## Available Scripts
 
