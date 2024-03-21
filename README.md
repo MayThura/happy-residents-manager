@@ -2,6 +2,21 @@
 
 This project is live in action at https://maythura.github.io/happy-residents-manager/
 
+#Included Features
+
+1. Displaying programs and residents in separate tabs, namely “Programs” and
+“Residents”.
+
+2. Under the “Programs” tab:
+   
+a. Displaying each program in a card describing number of attendees and program
+details.
+b. Adding a new attendee into each program.
+c. Adding a new program into the system.
+
+3. Under the “Residents” tab:
+a. Displaying the residents list in a table form.
+
 ## Available Scripts
 
 In the project directory, you can run:
