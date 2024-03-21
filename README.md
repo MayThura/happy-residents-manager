@@ -1,4 +1,5 @@
 # Happy Residents Manager
+Technologies Used: React, Typescript, CSS
 
 This project is live in action at https://maythura.github.io/happy-residents-manager/
 
@@ -11,10 +12,13 @@ This project is live in action at https://maythura.github.io/happy-residents-man
    
 a. Displaying each program in a card describing number of attendees and program
 details.
+
 b. Adding a new attendee into each program.
+
 c. Adding a new program into the system.
 
 3. Under the “Residents” tab:
+   
 a. Displaying the residents list in a table form.
 
 ## Available Scripts
